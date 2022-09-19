@@ -34,9 +34,14 @@ FIBFs = fdm(X, fs, fc, plot_subbands=False)
 ```
 
 Author: Original code for MATLAB written by Dr. Pushpendra Singh, Assistant Professor, National Institute of Technology, Hamirpur
+
 Updated: Python Implementation, 25-Apr-2021 - Abhimanyu Singh Udawat, National Institute of Technology, Hamirpur
+
 Modified: 03-Aug-2022 - Abhimanyu Singh Udawat
+
 License:
+
+For MATLAB based implementation of FDM, click here: https://www.researchgate.net/publication/363615241_An_efficient_MATLAB_code_for_faster_FDM_implementations_using_DFT_and_DCT
 
 Please cite the following paper(s) when using this function:
 **[The Fourier decomposition method for nonlinear and non-stationary time series analysis](https://royalsocietypublishing.org/doi/abs/10.1098/rspa.2016.0871)**
